@@ -154,19 +154,7 @@
 
 
 
-a ="\U"
-# b="U"
-c="0001"
-d="F"
-e ="001"
-for i in range(200):
-    z=a+c+d+e
-    print("z")
-
-    e=int(e)
-    e+= 1
-    e = str(e)
-
+print("This is the file of emojees")
 
 
 
